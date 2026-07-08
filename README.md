@@ -30,8 +30,7 @@ python-calculator/
 ├── README.md
 ├── calculator.py
 ├── requirements.txt
-├── screenshots/
-└── docs/
+
 ```
 
 ## Author
